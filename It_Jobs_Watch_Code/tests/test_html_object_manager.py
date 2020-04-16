@@ -25,3 +25,4 @@ class TestHtmlObjectManager:
 
     def test_html_manager_returns_html_from_url(self, html_manager_object):
         assert 'Tracking the IT Job Market' in html_manager_object.html
+
