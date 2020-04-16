@@ -22,14 +22,17 @@ vagrant ssh
 cd /home/ubuntu/app
 ```
 - run command:
-```
+
+```python
 python3 main.py
 ```
 - run command:
-```
+
+```python
 python3 -m pytest tests
 ```
 - Output of app and report go to:
-```
+
+```python
 /home/vagrant/Downloads
 ```
