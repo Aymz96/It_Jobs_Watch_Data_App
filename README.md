@@ -8,7 +8,7 @@
 - Run `vagrant init`, This creates a Vagrantfile.
 - Configure your Vagrantfile to your machine/synced_folder/provisions.
 - Configure your provisions file to what needs to be provisioned.
-- Run `vagrant up`
+- Run `vagrant up`.
 
 ### Accessing the Virtual Machine
 - Run commands
