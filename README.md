@@ -1,4 +1,4 @@
-# It Job Watch Project Repo & Code
+# It Job Watch Project Repo & Code :banana: :peach: :monkey:
 
 ### Set Up
 - Firstly you need to install vagrant for your specific machine by heading over to https://www.vagrantup.com/downloads.html.
@@ -31,7 +31,7 @@ python3 main.py
 ```python
 python3 -m pytest tests
 ```
-- Output of app and report go to:
+- Output of the app & report go to:
 
 ```python
 /home/vagrant/Downloads
