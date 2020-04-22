@@ -1,0 +1,7 @@
+DEPENDENCIES
+  It_Jobs_Watch_Cookbook
+    git: git@github.com:Aymz96/It_Jobs_Watch_Cookbook.git
+    revision: 95bf59d7aec4b1b45e443a08ce5af7efade2a137
+
+GRAPH
+  It_Jobs_Watch_Cookbook (0.1.0)
