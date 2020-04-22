@@ -5,9 +5,9 @@
 
 ### Creating a development environment
 - To create you local virtual machine:
-- Run `vagrant init`, This creates a Vagrantfile.
-- Configure your Vagrantfile to your machine/synced_folder/provisions.
-- Configure your provisions file to what needs to be provisioned.
+- Run `vagrant init`, This creates a Vagrantfile
+- Configure your Vagrantfile to your machine/synced_folder/provisions
+- Configure your provisions file to what needs to be provisioned
 - Run `vagrant up`
 
 ### Accessing the Virtual Machine
