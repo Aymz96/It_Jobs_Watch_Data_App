@@ -4,7 +4,23 @@ app/.idea
 app/.pytest_cache
 app/__pycache__/
 app/.gitignore
-.vagrant/
 *.log
-cookbooks/
+.vagrant
+*~
+*#
+.#*
+\#*#
+.*.sw[a-z]
+*.un~
+
+# Bundler
+Gemfile.lock
+gems.locked
+bin/*
+.bundle/*
+
+# Chef
 Berksfile.lock
+.zero-knife.rb
+Policyfile.lock.json
+berks-cookbooks/
