@@ -1,6 +1,27 @@
 /venv/
 /.pytest_cache/
-.idea
-.pytest_cache
-__pycache__/
-venv/
+app/.idea
+app/.pytest_cache
+app/__pycache__/
+app/.gitignore
+*.log
+.vagrant
+.vagrant/rgloader
+*~
+*#
+.#*
+\#*#
+.*.sw[a-z]
+*.un~
+
+# Bundler
+Gemfile.lock
+gems.locked
+bin/*
+.bundle/*
+
+# Chef
+Berksfile.lock
+.zero-knife.rb
+Policyfile.lock.json
+berks-cookbooks/
