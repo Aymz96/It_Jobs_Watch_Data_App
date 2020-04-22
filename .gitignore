@@ -6,6 +6,7 @@ app/__pycache__/
 app/.gitignore
 *.log
 .vagrant
+.vagrant/rgloader
 *~
 *#
 .#*
